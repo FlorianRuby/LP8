@@ -21,8 +21,8 @@ Heute habe ich alles erreicht was ich implementieren wollte. Man kann nun alle O
 - [X] Meyer Session Formen sind sichtbar
 - [X] Wenn Prüfung an dem Tag sieht man das
 
-Heute habe ich alle fehlenden Module eingefügt. Man kann jetzt jederzeit sehen, wann wir OPL, DSL oder PPL haben. Außerdem habe ich bemerkt, dass in einer Spalte Notizen stehen, z. B. Hinweise auf Prüfungen an bestimmten Tagen. Ich überprüfe nun den Inhalt dieser Spalte im Code: Wenn **"Lb"** oder **"Prüfung"** in einem Feld steht, wird der Tag rot markiert, sodass ersichtlich ist, dass an diesem Tag ein Test stattfindet.  
+Heute habe ich alle fehlenden Module eingefügt. Man kann jetzt jederzeit sehen, wann wir OPL, DSL oder PPL haben. Außerdem habe ich bemerkt, dass in einer Spalte Notizen stehen, z. B. Hinweise auf Prüfungen an bestimmten Tagen. Ich überprüfe nun den Inhalt dieser Spalte im Code: Wenn **"LB"** oder **"Prüfung"** in einem Feld steht, wird der Tag rot markiert, sodass ersichtlich ist, dass an diesem Tag ein Test stattfindet.  
 
 Die Seite ist jetzt **[HIER](http://habenwirmorgenopl.info)** erreichbar und stets auf dem neuesten Stand.  
 
-*Frau Rapisadra gibt nicht lange im Voraus an, ob wir OPL, DSL oder PPL haben, daher sind die Angaben nicht zu 100 % akkurat.*
+*Frau Rapisarda gibt nicht lange im Voraus an, ob wir OPL, DSL oder PPL haben, daher sind die Angaben nicht zu 100 % akkurat.*
