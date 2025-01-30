@@ -26,3 +26,9 @@ Heute habe ich alle fehlenden Module eingefügt. Man kann jetzt jederzeit sehen,
 Die Seite ist jetzt **[HIER](http://habenwirmorgenopl.info)** erreichbar und stets auf dem neuesten Stand.  
 
 *Frau Rapisarda gibt nicht lange im Voraus an, ob wir OPL, DSL oder PPL haben, daher sind die Angaben nicht zu 100 % akkurat.*
+
+# Projekt Abschluss
+
+In dieser Lernperiode wollte ich eine Webseite erstellen, welche auch Nutzen hat. Deswegen habe ich mich dafür entschieden eine Webseite zu erstellen, auf welcher man sieht in welcher Form der Unterricht an der BBB stattfindet. 
+Dazu habe ich ExcelJS verwendet um Exceldateien in JavaScript auszulesen und diese auf einer Webseite anzuzeigen. 
+Die Webseite ist **[HIER](http://habenwirmorgenopl.info)** live. 
