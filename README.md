@@ -32,3 +32,5 @@ Die Seite ist jetzt **[HIER](http://habenwirmorgenopl.info)** erreichbar und ste
 In dieser Lernperiode wollte ich eine Webseite erstellen, welche auch Nutzen hat. Deswegen habe ich mich dafür entschieden eine Webseite zu erstellen, auf welcher man sieht in welcher Form der Unterricht an der BBB stattfindet. 
 Dazu habe ich ExcelJS verwendet um Exceldateien in JavaScript auszulesen und diese auf einer Webseite anzuzeigen. 
 Die Webseite ist **[HIER](http://habenwirmorgenopl.info)** live. 
+
+![image](https://github.com/user-attachments/assets/f09227bd-a1c3-4740-a05a-79242c23e493)
